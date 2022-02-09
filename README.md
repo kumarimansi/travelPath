@@ -8,11 +8,11 @@
 Following are the snippets of the web application:
 * Starting page showing a graph on the left side and instructions on the right side. 'Get New Problem' will generate a new graph.
 
-![](https://github.com/kumarimansi/travelPath/blob/master/p1.png)
+![](https://github.com/kumarimansi/travelPath/blob/main/images/p1.png)
 
 * If 'Solve' button is clicked, solution for the least time travel path for the given graph is shown on the right side.
 
-![](https://github.com/kumarimansi/travelPath/blob/master/p2.png)
+![](https://github.com/kumarimansi/travelPath/blob/main/images/p2.png)
 
 
 
